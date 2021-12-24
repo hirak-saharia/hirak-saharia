@@ -35,4 +35,7 @@ add value to customers.
 
 :point_right:Initiative, Optimistic, Friendly Attitude and Co-operative nature
 
-:point_right:
+- 📫 How to find me: 
+  - :bulb: [Blog](https://www.lunartech.info/blog)
+  - :office: [LinkedIn](https://www.linkedin.com/in/hirak-saharia)
+  - :speaker: [Youtube](https://www.youtube.com/channel/UC1GhSNTwWgzSP0BXVsFkyXA)
