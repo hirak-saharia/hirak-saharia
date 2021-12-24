@@ -12,21 +12,22 @@
    * Data Preperation, 
    * Data Modeling and Databse Design, 
    * Excellent communication skills in writing and verbal both, 
-   * Strategic thinking, Content writing, 
-   * Web Development
-   * Animation/Motion Graphic
+   * Strategic thinking, 
+   * Content writing, 
+   * Web Development,
+   * Animation/Motion Graphic.
       
  ****Technical Skills:****
  
    - Power Bi, Tableau, Excel, MySQL, Python, HTML, CSS JavaScript
-   - **Operating Systems:** Windows, Linux (Obuntu) and MAC OSX.
-   - **Database:** SQL Server, PostgreSQL.
-   - **Office Automation Tools:** MS Excel (Advance Excel Techniques), MS Word, and Advance PowerPoint.
+   - **Operating Systems:** Windows, Linux (Obuntu) and MAC OSX
+   - **Database:** SQL Server, PostgreSQL
+   - **Office Automation Tools:** MS Excel (Advance Excel Techniques), MS Word, and Advance PowerPoint
    - **Machine Learning–** Data Analysis, NLP, Pandas, NumPy, Scikit Learn, Matplotlib, MLOPS
-   - **Deep Learning–** TensorFlow, Computer Vision, Kera’s, CNN, RNN, NLP.
-   - **Tools/IDE–** PyCharm and Jupyter Notebook, Visual Studio Code, PySpark, SAP (System and Applications Products).
-   - **Cloud–** Amazon AWS, GCP.
-   - **Version Control–** GIT.
+   - **Deep Learning–** TensorFlow, Computer Vision, Kera’s, CNN, RNN, NLP
+   - **Tools/IDE–** PyCharm and Jupyter Notebook, Visual Studio Code, PySpark, SAP (System and Applications Products)
+   - **Cloud–** Amazon AWS, GCP
+   - **Version Control–** GIT
 
 
 
@@ -36,6 +37,8 @@ add value to customers.
 :point_right:Initiative, Optimistic, Friendly Attitude and Co-operative nature
 
 - 📫 How to find me: 
-  - :bulb: [Blog](https://www.lunartech.info/blog)
+  - :bulb: [Blog](https://www.lunartech.info/blog/)
   - :office: [LinkedIn](https://www.linkedin.com/in/hirak-saharia)
   - :speaker: [Youtube](https://www.youtube.com/channel/UC1GhSNTwWgzSP0BXVsFkyXA)
+
+     
