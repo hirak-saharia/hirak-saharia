@@ -21,7 +21,7 @@
  
    - Power Bi, Tableau, Excel, MySQL, Python, HTML, CSS JavaScript
    - **Operating Systems:** Windows, Linux (Obuntu) and MAC OSX
-   - **Database:** SQL Server, PostgreSQL
+   - **Database:** SQL Server, NOSQL(MongoDB)
    - **Office Automation Tools:** MS Excel (Advance Excel Techniques), MS Word, and Advance PowerPoint
    - **Machine Learning–** Data Analysis, NLP, Pandas, NumPy, Scikit Learn, Matplotlib, MLOPS
    - **Deep Learning–** TensorFlow, Computer Vision, Kera’s, CNN, RNN, NLP
@@ -39,6 +39,6 @@ add value to customers.
 - 📫 How to find me: 
   - :bulb: [Blog](https://www.lunartech.info/blog/)
   - :office: [LinkedIn](https://www.linkedin.com/in/hirak-saharia)
-  - :speaker: [Youtube](https://www.youtube.com/channel/UC1GhSNTwWgzSP0BXVsFkyXA)
+  - :speaker: [Youtube](https://www.youtube.com/c/HirakNEVlogs)
 
      
