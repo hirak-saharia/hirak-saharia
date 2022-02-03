@@ -42,6 +42,7 @@ add value to customers.
   - :bulb: [Blog](https://www.lunartech.info/blog/)
   - :office: [LinkedIn](https://www.linkedin.com/in/hirak-saharia)
   - :speaker: [Youtube](https://www.youtube.com/c/HirakNEVlogs)
+  - :bulb: [Instagram](instagram/hirak_ne)
 
 
      #️⃣"Knowledge Sharing"
