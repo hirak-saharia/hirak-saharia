@@ -2,6 +2,9 @@
 
 :boom:**Favourite qoute:** **""Torturing the data will result in a long confession.""**
 
+
+![To Whom It May Concern](https://user-images.githubusercontent.com/64422300/152302282-b86d7b55-5a79-4bfc-8b19-a9f4dc7305a9.jpg)
+
 :point_right:**I am currently working in Concentrix**
 
 :point_right:**Sr. Analyst in Data Sceince & IT professional with 6+ years of experience in business problem solving on massive datasets for Back-end Service Order Management, Transaction Fraud Analyst, Quality management, and International Technical Analyst.** 
