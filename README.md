@@ -2,8 +2,7 @@
 
 :boom:**Favourite qoute:** **""Torturing the data will result in a long confession.""**
 
-
-![To Whom It May Concern](https://user-images.githubusercontent.com/64422300/152302282-b86d7b55-5a79-4bfc-8b19-a9f4dc7305a9.jpg)
+#️⃣![To Whom It May Concern](https://user-images.githubusercontent.com/64422300/152302282-b86d7b55-5a79-4bfc-8b19-a9f4dc7305a9.jpg)
 
 :point_right:**I am currently working in Concentrix**
 
@@ -44,4 +43,9 @@ add value to customers.
   - :office: [LinkedIn](https://www.linkedin.com/in/hirak-saharia)
   - :speaker: [Youtube](https://www.youtube.com/c/HirakNEVlogs)
 
-     
+
+     #️⃣"Knowledge Sharing"
+      :point_right: ⏯️https://youtu.be/HO4gG9pIMWM
+     ![Modern Short Movie Youtube Thumbnail](https://user-images.githubusercontent.com/64422300/152303068-01c65242-2c81-429f-b7ef-fb11682082ae.png)
+        
+       
