@@ -48,5 +48,7 @@ add value to customers.
      #️⃣"Knowledge Sharing"
       :point_right: ⏯️https://youtu.be/HO4gG9pIMWM
      ![Modern Short Movie Youtube Thumbnail](https://user-images.githubusercontent.com/64422300/152303068-01c65242-2c81-429f-b7ef-fb11682082ae.png)
-        
-       
+     
+     **How devoted are you to yourself?**
+     https://user-images.githubusercontent.com/64422300/154637669-cfc70f47-e74c-4941-a313-bb4354054a4c.mp4
+
