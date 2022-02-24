@@ -1,4 +1,4 @@
-:raising_hand_man:	**Hello there!** **I am Hirak, Data Sceince & IT Professional** 
+:raising_hand_man:	**Hello there!** **I am Hirak, NIT Dropout, Data Sceince & IT Professional** 
 
 :boom:**Favourite qoute:** **""Torturing the data will result in a long confession.""**
 
