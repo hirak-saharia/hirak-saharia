@@ -6,7 +6,7 @@
 
 :point_right:**I am currently working in Concentrix**
 
-:point_right:**Sr. Analyst in Data Sceince & IT professional with 6+ years of experience in business problem solving on massive datasets for Back-end Service Order Management, Transaction Fraud Analyst, Quality management, and International Technical Analyst.** 
+:point_right:**Sr. Analyst in Data Sceince & IT professional with 6+ years of experience in business problem solving on various products for end-to-end model deployment using Machine Learning/Deep Learning & BI techniques in collaboration on Transaction Fraud Analysis, Mail-in/Carry-in Service Order Analysis, and also International Tech Support Analyst on Applications/Hardwares.** 
       
    * Skilled in Data visualization, 
    * Data Analysis, 
