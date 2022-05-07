@@ -50,5 +50,5 @@ add value to customers.
      ![Modern Short Movie Youtube Thumbnail](https://user-images.githubusercontent.com/64422300/152303068-01c65242-2c81-429f-b7ef-fb11682082ae.png)
      
      **How devoted are you to yourself?**
-      https://www.lunartech.info/post/excuses-vs-loyalty
+      https://www.dolarbogori.com/post/excuses-vs-loyalty
 
