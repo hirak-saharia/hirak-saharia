@@ -10,7 +10,6 @@
 <p align="center"> <br>:point_right:I am currently working in Concentrix, Bangalore, India</br>
 
 <br>👉Sr. Analyst in Data Sceince & IT professional with 6+ years of experience in business problem solving on various products for end-to-end model deployment using Machine Learning/Deep Learning & BI techniques in collaboration on Transaction Fraud Analysis, Mail-in/Carry-in Service Order Analysis, and also International Tech Support Analyst on Applications/Hardwares.</br>
-
 <p align="center">:boom:Favourite qoute:""Torturing the data will result in a long confession.""
 
 </p>
@@ -18,9 +17,9 @@
 </html>
 
 
-#️⃣![To Whom It May Concern](https://user-images.githubusercontent.com/64422300/152302282-b86d7b55-5a79-4bfc-8b19-a9f4dc7305a9.jpg)
+#️⃣![To Whom It May Concern](https://user-images.githubusercontent.com/64422300/152302282-b86d7b55-5a79-4bfc-8b19-a9f4dc7305a9.jpg) <hr>
 
-      
+   
    * Skilled in Data visualization, 
    * Data Analysis, 
    * Exploratory Data Analysis, 
