@@ -7,7 +7,7 @@
 
 <h1 align="center" >:raising_hand_man:Hello there! I am Hirak, Data Sceince & IT Professional</h1>
 
-<p align="center"> <br>:point_right:I an ex Concentrixian, Bangalore, India</br>
+<p align="center"> <br>:point_right:I am currently working at <strong>Northern Trust</strong>, Bangalore | Pune, India</br>
 
    <br><em><strong>👉Sr. Analyst in Data Sceince & IT professional</strong> with 6+ years of experience in business problem solving on various products for end-to-end model deployment using Machine Learning/Deep Learning & BI techniques in collaboration on Transaction Fraud Analysis, Mail-in/Carry-in Service Order Analysis, and also International Tech Support Analyst on Applications/Hardwares.</em></br>
 
