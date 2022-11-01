@@ -17,9 +17,6 @@
 </body>
 </html>
 
-
-#️⃣![To Whom It May Concern](https://user-images.githubusercontent.com/64422300/152302282-b86d7b55-5a79-4bfc-8b19-a9f4dc7305a9.jpg) <hr>
-
    
    * Skilled in Data visualization, 
    * Data Analysis, 
