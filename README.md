@@ -31,10 +31,10 @@
       
  ****Technical Skills:****
  
-   - Power Bi, Tableau, Excel, MySQL, Python, HTML, CSS JavaScript
+   - **Power Bi, Power Apps, Power Automate, Sharepoint, Tableau, Excel, MySQL, Python, HTML, CSS, JavaScript, 
    - **Operating Systems:** Windows, Linux (Obuntu) and MAC OSX
    - **Database:** SQL Server, NOSQL(MongoDB)
-   - **Office Automation Tools:** MS Excel (Advance Excel Techniques), MS Word, and Advance PowerPoint
+   - **Office Automation Tools:** UiPath, Xceptor, MS Excel (Advance Excel Techniques), MS Word, and Advance PowerPoint
    - **Machine Learning–** Data Analysis, NLP, Pandas, NumPy, Scikit Learn, Matplotlib, MLOPS
    - **Deep Learning–** TensorFlow, Computer Vision, Kera’s, CNN, RNN, NLP
    - **Tools/IDE–** PyCharm and Jupyter Notebook, Visual Studio Code, PySpark, SAP (System and Applications Products)
