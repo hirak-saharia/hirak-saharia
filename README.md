@@ -19,8 +19,8 @@
 
    
    * Skilled in Data visualization.
-   * Experience with Docker / Kubernetes and large distributed microservice platforms.
-   * Skills in Azure DevOps, Python, Ansible, Bash, and the creation, scheduling, and automation of CI / CD pipelines.
+   * Experience with Docker and ubernetes and large distributed microservice platforms.
+   * Skills in AWS DevOps, Python, Ansible, Bash, and the creation, scheduling, and automation of CI / CD pipelines.
    * Good understanding and experience with continuous integration/continuous delivery (CI/CD) concepts, as well as scalable distributed data platforms and software deployment automation.
    * Skills in hybrid cloud transformation that includes AWS and Azure.
    * Data Analysis, 
@@ -44,7 +44,7 @@
    - **Power Bi, Power Apps, Power Automate, Sharepoint, Tableau, Excel, MySQL, Python, HTML, CSS, JavaScript**, 
    - **Operating Systems:** Windows, Linux (Obuntu) and MAC OSX
    - **Database:** SQL Server, NOSQL(MongoDB)
-   - **Office Automation Tools:** UiPath, Xceptor, MS Excel (Advance Excel Techniques), MS Word, and Advance PowerPoint
+   - **Office Automation Tools:** UiPath, MS Excel (Advance Excel Techniques), MS Word, and Advance PowerPoint
    - **Machine Learning–** Data Analysis, NLP, Pandas, NumPy, Scikit Learn, Matplotlib, MLOPS
    - **Deep Learning–** TensorFlow, Computer Vision, Kera’s, CNN, RNN, NLP
    - **Tools/IDE–** PyCharm and Jupyter Notebook, Visual Studio Code, PySpark, SAP (System and Applications Products)
