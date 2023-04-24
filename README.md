@@ -7,7 +7,7 @@
 
 <h1 align="center" >:raising_hand_man:Hello there! I am Hirak, Data Sceintist & IT Professional</h1>
 
-<p align="center"> <br>:point_right:I am currently working at <strong>Northern Trust</strong>, Bangalore | Pune, India</br>
+<p align="center"> <br>:point_right:I am currently working at <strong>Northern Trust</strong>,Pune, India</br>
 
    <br><em><strong>👉Associate Consultant in Automation Developer / Business Intelligence Developer / Data Sceintist / & IT professional</strong> with 6+ years of experience in business problem solving on various products for end-to-end model deployment using Machine Learning/Deep Learning & BI techniques in collaboration on Transaction Fraud Analysis, Custody Investment Banking Services, and Warehouse Service Order Management, and also International Tech Support Specialist on Applications.</em></br>
 
