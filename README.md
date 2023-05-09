@@ -48,7 +48,7 @@
    - **Machine Learning–** Data Analysis, NLP, Pandas, NumPy, Scikit Learn, Matplotlib, MLOPS
    - **Deep Learning–** TensorFlow, Computer Vision, Kera’s, CNN, RNN, NLP
    - **Tools/IDE–** PyCharm and Jupyter Notebook, Visual Studio Code, PySpark, SAP (System and Applications Products)
-   - **Cloud–** Amazon AWS, GCP
+   - **Cloud–** Amazon AWS, Azure.
    - **Version Control–** GIT
 
 
