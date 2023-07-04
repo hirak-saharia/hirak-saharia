@@ -18,7 +18,7 @@
 </html>
 
    
-   * Skilled in Data analysis & visualization on Predictive | Descriptive | Diagnostic | Prescriptive
+   * Skilled in Data analysis & visualization on > Descriptive | Diagnostic | Predictive
    * Experience with Docker and ubernetes and large distributed microservice platforms.
    * Skills in AWS DevOps, Python, Ansible, Bash, and the creation, scheduling, and automation of CI / CD pipelines.
    * Good understanding and experience with continuous integration/continuous delivery (CI/CD) concepts, as well as scalable distributed data platforms and software deployment automation.
