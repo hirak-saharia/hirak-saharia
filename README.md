@@ -24,6 +24,7 @@
    * Extract necessary data from systems, build processes and develop visualization dashboards and address any ad-hoc queries using SQL, Python, and Power BI.
    * Working with various data storage technologies, such as Azure data warehouses, SharePoint, and SQL databases to ensure that data is easily accessible and can be analyzed efficiently using the latest Business Intelligence tools.
    * Build ML/AI based solutions that a) leverage/extend existing data warehouse, business intelligence, and analytics infrastructure, b) interface with data governance and enterprise solutions, c) are scalable, repeatable, and effective, and d) adhere to agreed-upon governance and technology norms.
+   * Using a CI/CD tool and enabling a multi-cluster-native architecture and ecosystem to deliver AI/ML Products with various clean code methods (python), documentation for both developers and users
    * Experience with Docker and Kubernetes and large distributed microservice platforms.
    * Skills in AWS DevOps, Python, Ansible, Bash, and the creation, scheduling, and automation of CI / CD pipelines.
    * Good understanding and experience with continuous integration/continuous delivery (CI/CD) concepts, as well as scalable distributed data platforms and software deployment automation.
