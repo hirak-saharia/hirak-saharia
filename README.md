@@ -26,6 +26,8 @@
    * Build ML/AI based solutions that a) leverage/extend existing data warehouse, business intelligence, and analytics infrastructure, b) interface with data governance and enterprise solutions, c) are scalable, repeatable, and effective, and d) adhere to agreed-upon governance and technology norms.
    * Using a CI/CD tool and enabling a multi-cluster-native architecture and ecosystem to deliver AI/ML Products with various clean code methods (python), documentation for both developers and users
    * Experience with Docker and Kubernetes and large distributed microservice platforms.
+   * Knowledge of building ML (Dev/Test/UAT) Pipelines using MLOPS tools for Continuous Training/ Integration and Deployment.
+   * Analyze logs generated as part of the AI code and design mechanisms for capturing, raising red flags, and communicating back to the relevant stakeholders.
    * Skills in AWS DevOps, Python, Ansible, Bash, and the creation, scheduling, and automation of CI / CD pipelines.
    * Good understanding and experience with continuous integration/continuous delivery (CI/CD) concepts, as well as scalable distributed data platforms and software deployment automation.
    * Skills in hybrid cloud transformation that includes AWS and Azure.
