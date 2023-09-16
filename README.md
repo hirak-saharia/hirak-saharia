@@ -17,7 +17,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=900&color=F7EE37&background=000632&width=435&lines=Hi!+glad+that+you're+checking-in.%F0%9F%AA%B4;myself%2C+SHIVAM+VERMA%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Full+Stack+Development-+Learner%F0%9F%92%BB;Machine+Learning%2F+AI-+enthusiast%F0%9F%92%BB;%26+Endlessly+Learning+%26+Growing.%F0%9F%AA%B4" alt="README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=900&color=F7EE37&background=000632&width=435&lines=Hi!+glad+that+you're+checking-in.%F0%9F%AA%B4;myself%2C+Hirak+Saharia%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Full+Stack+Development-+Learner%F0%9F%92%BB;Machine+Learning%2F+AI-+enthusiast%F0%9F%92%BB;%26+Endlessly+Learning+%26+Growing.%F0%9F%AA%B4" alt="README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I+Hirak+Saharia%2C+Data+Sceintist+%26+IT+Professional.+I+am+currently+working+at+Northern+Trust;Associate+Consultant+in+Automation+Developer+%2F+Business+Intelligence+Developer+%2F+Data+Scientist+%2F+%26+IT+professional;with+6%2B+years+of+experience+in+business+problem+solving+on+various+products+for+end-to-end+model+deployment+using+Machine+Learning%2FDeep+Learning+%26+BI+techniques+in+collaboration+on+Transaction+Fraud+Analysis%2C+Custody+Investment+Banking+Services%2C+and+Warehouse+Service+Order+Management%2C+and+also+International+Tech+Support+Specialist+on+Applications" alt="Typing SVG" /></a>
 </p>
 <br><br>
 
