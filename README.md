@@ -12,7 +12,7 @@
 <!--   <h2 align="center">W</h2> -->
 <img src = "https://img.freepik.com/free-vector/colorful-welcome-lettering-banner-invite-your-guests-event_1017-43281.jpg?t=st=1694846451~exp=1694847051~hmac=f1d7e5ab5a61ae193c128f1c6c579509adf2012a1627dd6e1040dbd0996d64bd" style="width:400px;height:70px;">
 </p>
-
+<p align="center"> <em><strong>:boom: Favourite quote:"Torturing the data will result in a long confession."</strong></em> </p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=900&color=49F75F&width=435&lines=Thanks+for+reaching+out!;I'm+Hirak+Saharia;Automation+Developer+%7C+Data+Scientist+;Currently+working+%40Northern+Trust.;Pune%2C+India" alt="Typing SVG">
 </p>
@@ -26,9 +26,7 @@
 
 <em><strong>👉Associate Consultant in Automation Developer / Business Intelligence Developer / Data Scientist / & IT professional</strong> with 6+ years of experience in business problem solving on various products for end-to-end model deployment using Machine Learning/Deep Learning & BI techniques in collaboration on Transaction Fraud Analysis, Custody Investment Banking Services, and Warehouse Service Order Management, and also International Tech Support Specialist on Applications.</em>
 
-<p align="center"> <em><strong>:boom: Favourite quote:"Torturing the data will result in a long confession."</strong></em>
 
-</p>
 </body>
 </html>
 
