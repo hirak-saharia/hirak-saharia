@@ -24,7 +24,7 @@
 
 <!--<p align="center"> <br>:point_right:I am currently working at <strong>Northern Trust</strong>, Pune, India</br> -->
 
-<br><em><strong>👉Associate Consultant in Automation Developer / Business Intelligence Developer / Data Scientist / & IT professional</strong> with 6+ years of experience in business problem solving on various products for end-to-end model deployment using Machine Learning/Deep Learning & BI techniques in collaboration on Transaction Fraud Analysis, Custody Investment Banking Services, and Warehouse Service Order Management, and also International Tech Support Specialist on Applications.</em></br>
+<em><strong>👉Associate Consultant in Automation Developer / Business Intelligence Developer / Data Scientist / & IT professional</strong> with 6+ years of experience in business problem solving on various products for end-to-end model deployment using Machine Learning/Deep Learning & BI techniques in collaboration on Transaction Fraud Analysis, Custody Investment Banking Services, and Warehouse Service Order Management, and also International Tech Support Specialist on Applications.</em>
 
 <p align="center"> <em><strong>:boom: Favourite quote:"Torturing the data will result in a long confession."</strong></em>
 
