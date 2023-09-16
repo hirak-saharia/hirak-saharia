@@ -5,11 +5,12 @@
 
 <body>
 
-### Hi there!
+### Hello Tchies!
 
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <h2 align="center">I'm, Hirak.🪴</h2>
+  <h2 align="center">W</h2>
+  <img src = https://img.freepik.com/free-vector/colorful-welcome-lettering-banner-invite-your-guests-event_1017-43281.jpg?t=st=1694846451~exp=1694847051~hmac=f1d7e5ab5a61ae193c128f1c6c579509adf2012a1627dd6e1040dbd0996d64bd>
 </p>
 
 <p align="center">
