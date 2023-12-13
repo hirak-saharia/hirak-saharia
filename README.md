@@ -85,7 +85,7 @@ add value to customers.
   - :bulb: [Blog](https://www.dolarbogori.com/blog/)
   - :office: [LinkedIn](https://www.linkedin.com/in/hirak-saharia)
   - :speaker: [Youtube](https://www.youtube.com/c/HirakNEVlogs)
-  - :bulb: [Instagram](https://www.instagram.com/hirak_ne)
+  - :bulb: [Instagram](https://www.instagram.com/totheparadise01)
 
 
      #️⃣"Knowledge Sharing"
