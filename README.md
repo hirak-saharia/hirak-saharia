@@ -33,16 +33,17 @@
 </body>
 </html>
 
-   ********** <u>Currently collaborating with cross function teams >> Full Stack Developer (ReactJS, HTML, CSS and Python)</u> **********
-   * Understand the business process, analyse the multiple data sources/systems, translate business requirements into technical specifications and subsequently work with technical developers / business stakeholders.
-   * Understand the business process, analyse the multiple data sources/systems, translate business requirements into technical specifications and subsequently work with technical developers / business stakeholders
-   * Develop and maintain web applications, from the front-end user interface to the back-end server-side logic.
-   * Collaborate with cross-functional teams to design, develop and deliver new features and functionality.
-   * Good understanding of HTTP/HTTPS protocols, CI/CD.
-   * Exposure to UNIX, Shell Scripting is good to have.
+   # Currently collaborating with cross function teams >> Full Stack Developer (ReactJS, HTML, CSS and Python)
+   
+   - [x] Understand the business process, analyse the multiple data sources/systems, translate business requirements into technical specifications and subsequently work with technical developers / business stakeholders.
+   - [x] Understand the business process, analyse the multiple data sources/systems, translate business requirements into technical specifications and subsequently work with technical developers / business stakeholders
+   - [x] Develop and maintain web applications, from the front-end user interface to the back-end server-side logic.
+   - [x] Collaborate with cross-functional teams to design, develop and deliver new features and functionality.
+   - [x] Good understanding of HTTP/HTTPS protocols, CI/CD.
+   - [x] Exposure to UNIX, Shell Scripting is good to have.
 
    
-   ********* Along with the emerging trends and technologies in AI & Data Analytics *************
+   ## Along with the emerging trends and technologies in AI & Data Analytics
    * Skilled in Data analysis & visualization on > Descriptive | Diagnostic | Predictive
    * Design, Develop, and Maintain Data Systems and, architecture to enable organizations to make data-driven decisions.
    * Understanding the business process, analyzing different data sources/systems, translating business needs into technical specifications, and working with business stakeholders to understand their needs and develop Machine Learning based Solutions.
