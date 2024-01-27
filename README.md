@@ -33,7 +33,16 @@
 </body>
 </html>
 
+   ********** <u>Currently collaborating with cross function teams >> Full Stack Developer (ReactJS, HTML, CSS and Python)</u> **********
+   * Understand the business process, analyse the multiple data sources/systems, translate business requirements into technical specifications and subsequently work with technical developers / business stakeholders.
+   * Understand the business process, analyse the multiple data sources/systems, translate business requirements into technical specifications and subsequently work with technical developers / business stakeholders
+   * Develop and maintain web applications, from the front-end user interface to the back-end server-side logic.
+   * Collaborate with cross-functional teams to design, develop and deliver new features and functionality.
+   * Good understanding of HTTP/HTTPS protocols, CI/CD.
+   * Exposure to UNIX, Shell Scripting is good to have.
+
    
+   ********* Along with the emerging trends and technologies in AI & Data Analytics *************
    * Skilled in Data analysis & visualization on > Descriptive | Diagnostic | Predictive
    * Design, Develop, and Maintain Data Systems and, architecture to enable organizations to make data-driven decisions.
    * Understanding the business process, analyzing different data sources/systems, translating business needs into technical specifications, and working with business stakeholders to understand their needs and develop Machine Learning based Solutions.
@@ -64,16 +73,13 @@
 
       
  ****Technical Skills:****
+
+   | Data Visualizations  | Automation | Cloud | Machine Learning & Deep Learning | Databases | Version Control | No Code Website Builder | Tools/IDE | Operating System | Anaimation & Presentation | API Testing |
+   | ---------------------|------------|-------|----------------------------------|-----------|-----------------|-------------------------|-----------|------------------|---------------------------|-------------|
+   |     PowerBi, Tableu  | Power Apps, Power Automate, Dynamic 365, Excel | Amazon AWS, Azure, Heroku, Render, Hostiger |  Statistics  |  MySQL, SQL Server, NoSQL(MongoDB), Sharepoint | GitHub | Wix, Wordpress | VS Code, ApyCharm, Jupyter NoteBook | Windows, Linux, Mac OSX | PowerPoint | Postman, Insomnia |
+   |          |           |           | NLP, Computer Vision, TensorFlow, Computer Vision, Kera’s, CNN, RNN, Pandas, NumPy, Scikit Learn, Matplotlib, Steamlight   |
  
-   - **Power Bi, Power Apps, Power Automate, Sharepoint, Tableau, Excel, MySQL, Python, HTML, CSS, JavaScript**, 
-   - **Operating Systems:** Windows, Linux (Ubuntu) and MAC OSX
-   - **Database:** SQL Server, MySQL AND, NoSQL(MongoDB)
-   - **Office Automation Tools:** UiPath, MS Excel (Advance Excel Techniques), MS Word, and Advance PowerPoint
-   - **Machine Learning–** Data Analysis, NLP, Pandas, NumPy, Scikit Learn, Matplotlib, MLOPS
-   - **Deep Learning–** TensorFlow, Computer Vision, Kera’s, CNN, RNN, NLP
-   - **Tools/IDE–** PyCharm and Jupyter Notebook, Visual Studio Code.
-   - **Cloud–** Amazon AWS, Azure.
-   - **Version Control–** GIT
+
 
 
 :point_right: A passionately curious person, who likes to solve business problems with technology and 
