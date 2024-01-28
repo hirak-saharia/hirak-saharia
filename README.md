@@ -41,7 +41,7 @@
    - [x] Develop and maintain web applications, from the front-end user interface to the back-end server-side logic.
    - [x] Collaborate with cross-functional teams to design, develop and deliver new features and functionality.
    - [x] Good understanding of HTTP/HTTPS protocols, CI/CD.
-   - [x] Good knowledge to UNIX, Shell Scripting.
+   - [x] Good knowledge on writing Shell Scripting and UNIX.
 
    
    ## Along with the emerging trends and technologies in AI & Data Analytics
