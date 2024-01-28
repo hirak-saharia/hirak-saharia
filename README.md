@@ -37,7 +37,6 @@
 
    # Currently collaborating with cross function teams >> Full Stack Developer (ReactJS, HTML, CSS and Python)
    
-   - [x] Understand the business process, analyse the multiple data sources/systems, translate business requirements into technical specifications and subsequently work with technical developers / business stakeholders.
    - [x] Understand the business process, analyse the multiple data sources/systems, translate business requirements into technical specifications and subsequently work with technical developers / business stakeholders
    - [x] Develop and maintain web applications, from the front-end user interface to the back-end server-side logic.
    - [x] Collaborate with cross-functional teams to design, develop and deliver new features and functionality.
