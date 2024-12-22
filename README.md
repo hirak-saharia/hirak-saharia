@@ -35,7 +35,7 @@
 </body>
 </html>
 
-   # Currently collaborating with cross function teams >> Full Stack AI Developer { Python(django & ReactJS) + Computer Vision | NLP }
+   # Currently collaborating with cross function teams >> Full Stack AI Developement { Python(django & ReactJS) + Computer Vision | NLP + Gen AI }
    
    - [x] Understand the business process, analyse the multiple data sources/systems, translate business requirements into technical specifications and subsequently work with technical developers / business stakeholders
    - [x] Develop and manage web applications, including the server-side logic in the back and the user experience on the front end.
