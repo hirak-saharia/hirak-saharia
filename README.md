@@ -38,7 +38,10 @@
    # Currently collaborating with cross function teams >> full_stack_ai_development = {
     "Backend": "Python (Django)",
     "Frontend": "ReactJS",
-    "Fields": ["Computer Vision", "NLP", "Generative AI"]
+    "Fields": ["Computer Vision", "NLP", "Generative AI"],
+    "Database": ["Sql Server", "SharePoint"],
+    "ETL": ["Azure Data Factory", "Power Query Editor"],
+    "Visualization": "Power BI",
 }
 
    
