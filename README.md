@@ -28,11 +28,6 @@
 <!-- <h1 align="center" >:raising_hand_man:Hello there! I am Hirak, Data Sceintist & IT Professional</h1> -->
 
 <!--<p align="center"> <br>:point_right:I am currently working at <strong>Northern Trust</strong>, Pune, India</br> -->
-
-<em><strong>👉Associate Consultant in Automation Developer / Business Intelligence Developer / Data Scientist / & IT professional</strong> with 6+ years of experience in business problem solving on various products for end-to-end model deployment using Machine Learning/Deep Learning & BI techniques in collaboration on Transaction Fraud Analysis, Custody Investment Banking Services, and Warehouse Service Order Management, and also Information Security Analyst.</em>
-
-<em><strong> 👉 Associate Consultant in Automation Development, Business Intelligence, Data Science, and IT </em>
-
 <em><strong> A highly skilled professional with over 6 years of experience in solving complex business problems through end-to-end model deployment using Machine Learning, Deep Learning, and Business Intelligence techniques.</em> Demonstrated expertise in:
 
    * Automation Development: Streamlining processes and improving efficiency through innovative automation solutions.
