@@ -41,7 +41,8 @@
     "Fields": ["Computer Vision", "NLP", "Generative AI"],
     "Database": ["Sql Server", "SharePoint"],
     "ETL": ["Azure Data Factory", "Power Query Editor"],
-    "Visualization": "Power BI",
+    "Data Visualization": "Power BI",
+    "Dynamic automation": ["Power Apps", "Power Automate", "Dynamic 365"]
 }
 
    
