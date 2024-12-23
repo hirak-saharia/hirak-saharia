@@ -31,6 +31,26 @@
 
 <em><strong>👉Associate Consultant in Automation Developer / Business Intelligence Developer / Data Scientist / & IT professional</strong> with 6+ years of experience in business problem solving on various products for end-to-end model deployment using Machine Learning/Deep Learning & BI techniques in collaboration on Transaction Fraud Analysis, Custody Investment Banking Services, and Warehouse Service Order Management, and also Information Security Analyst.</em>
 
+<em><strong> 👉 Associate Consultant in Automation Development, Business Intelligence, Data Science, and IT </em>
+
+<em><strong> A highly skilled professional with over 6 years of experience in solving complex business problems through end-to-end model deployment using Machine Learning, Deep Learning, and Business Intelligence techniques.</em> Demonstrated expertise in:
+
+   * Automation Development: Streamlining processes and improving efficiency through innovative automation solutions.
+         
+   * Business Intelligence Development: Designing and implementing BI strategies to enhance data-driven decision-making.
+         
+   * Data Science: Applying advanced analytical methods to extract insights and drive strategic initiatives.
+         
+   * Collaborated on key projects in areas such as:
+         
+     * Transaction Fraud Analysis: Developing models to detect and prevent fraudulent activities.
+         
+     * Custody Investment Banking Services: Enhancing services through data-driven insights and automation.
+         
+     * Service Order Management: Optimizing operations and workflow management.
+         
+     * Additionally, served as an Information Security Analyst, ensuring data security and compliance with industry standards.
+
 
 </body>
 </html>
