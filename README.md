@@ -100,7 +100,7 @@ add value to customers.
 
 - 📫 How to find me: 
   - :bulb: [Blog](https://www.dolarbogori.com/blog/)
-  - :office: [LinkedIn](https://www.linkedin.com/in/hirak-saharia)
+  - :office: [LinkedIn](https://in.linkedin.com/in/hirakjs1)
   - :speaker: [Youtube](https://www.youtube.com/c/HirakNEVlogs)
 
 
