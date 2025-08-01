@@ -54,9 +54,9 @@
     "Backend": "Python (Django)",
     "Frontend": "ReactJS",
     "Fields": ["Computer Vision", "NLP", "Generative AI"],
-    "Database": ["Sql Server", "SharePoint"],
+    "Database": ["Sql Server", "MongoDB" "SharePoint"],
     "ETL": ["Azure Data Factory", "Power Query Editor", "Airflow"],
-    "Data Visualization": "Power BI",
+    "Data Visualization": "Power BI", "Tableu,
     "Dynamic automation": ["Power Apps", "Power Automate", "Dynamic 365"]
 }
 
