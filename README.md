@@ -57,7 +57,8 @@
     "Database": ["Sql Server", "MongoDB" "SharePoint"],
     "ETL": ["Azure Data Factory", "Power Query Editor", "Airflow"],
     "Data Visualization": "Power BI", "Tableu,
-    "Dynamic automation": ["Power Apps", "Power Automate", "Dynamic 365"]
+    "Dynamic automation": ["Power Apps", "Power Automate", "Dynamic 365"],
+    "Workflow orchestration": "Power Automate", "Airflow"]
 }
 
    
