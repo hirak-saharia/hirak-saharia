@@ -51,7 +51,7 @@
 </html>
 
    # Currently collaborating with cross function teams >> full_stack_ai_development = {
-    "Backend": "Python (Django)",
+    "Backend": Django and FastAPI
     "Frontend": "ReactJS",
     "Fields": ["Computer Vision", "NLP", "Generative AI"],
     "Database": ["Sql Server", "MongoDB" "SharePoint"],
