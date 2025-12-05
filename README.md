@@ -53,8 +53,8 @@
    # Currently collaborating with cross function teams >> full_stack_ai_development = {
     "Backend": Django and FastAPI
     "Frontend": "ReactJS",
-    "Fields": ["Computer Vision", "NLP", "Generative AI"],
-    "Database": ["Sql Server", "MongoDB" "SharePoint"],
+    "Fields": ["Computer Vision", "NLP", "Generative AI", "Azure AI foundry"],
+    "Database": ["Sql Server", "PostgresSQL" "MongoDB" "SharePoint"],
     "ETL": ["Azure Data Factory", "Power Query Editor", "Airflow"],
     "Data Visualization": "Power BI", "Tableu,
     "Dynamic automation": ["Power Apps", "Power Automate", "Dynamic 365"],
