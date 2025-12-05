@@ -50,7 +50,7 @@
 </body>
 </html>
 
-   # Currently collaborating with cross function teams >> full_stack_ai_development = {
+   # Full_stack_ai_development = {
     "Backend": Django and FastAPI
     "Frontend": "ReactJS",
     "Fields": ["Computer Vision", "NLP", "Generative AI", "Azure AI foundry"],
