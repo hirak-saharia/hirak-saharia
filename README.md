@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=850&color=49F75F&width=435&lines=Thanks+for+reaching+out!;I'm+Hirak+Saharia;AI+Automation+Developer+%7C+Data+Scientist+;+India" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=850&color=49F75F&width=435&lines=Thanks+for+reaching+out!;I'm+Hirak+Saharia;AI+Automation+Developer+%7C;+India" alt="Typing SVG">
 </p>
 <br></br>
 
