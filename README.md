@@ -50,7 +50,7 @@
 </body>
 </html>
 
-   # Full_stack_ai_development = {
+   # AI & Automation Workspace = {
     "Backend": Django and FastAPI
     "Frontend": "ReactJS",
     "Fields": ["Computer Vision", "NLP", "Generative AI", "Azure AI foundry"],
@@ -65,8 +65,6 @@
    - [x] Understand the business process, analyse the multiple data sources/systems, translate business requirements into technical specifications and subsequently work with technical developers / business stakeholders
    - [x] Develop and manage web applications, including the server-side logic in the back and the user experience on the front end.
    - [x] Collaborate with cross-functional teams to design, develop and deliver new features and functionality.
-   - [x] Good understanding of HTTP/HTTPS protocols, CI/CD.
-   - [x] Good knowledge on writing Shell Scripting and UNIX.
 
    
    ## Along with the emerging trends and technologies in AI & Data Analytics
